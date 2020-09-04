@@ -1,6 +1,7 @@
 # QUT-IFN666-Assignment1
 This is my first assignment for IFN666 (Web and Mobile Application Development) at QUT.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**This project is strictly for reference only.
 
 ## Step By Step
 

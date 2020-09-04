@@ -2,7 +2,7 @@
 This is my first assignment for IFN666 (Web and Mobile Application Development) at QUT.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Step By Step
 
 You can run the project by following the steps below in the project directory:
 
